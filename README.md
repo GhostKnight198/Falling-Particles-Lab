@@ -38,6 +38,7 @@ falling-particles-lab/
 
 - All simulations use identical physics; observed differences in v3 arise solely from timestep discretization.
 - Numerical validation is prioritized over visual fidelity.
+- This project prioritizes conceptual clarity and numerical reasoning over performance or physical completeness.
 - Later versions (v4+) will introduce dissipation, improved integration schemes, and feedback/control mechanisms.
 
 ---
